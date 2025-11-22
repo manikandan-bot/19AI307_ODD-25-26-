@@ -28,7 +28,7 @@ RegisterNumber:  212224110037
 
 ## Sourcecode.java:
 
-```python
+```java
 import java.util.*;
 public class Main{
     public static void main(String args[]){
@@ -47,6 +47,7 @@ public class Main{
 ## RESULT:
 
 Thus the Java program that does post-decrement and pre-decrement operators are executed successfully.
+
 
 
 
