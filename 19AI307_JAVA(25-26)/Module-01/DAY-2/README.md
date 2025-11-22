@@ -50,7 +50,7 @@ RegisterNumber: 212224110037
 ```
 
 ## Sourcecode.java:
-```python
+```java
 import java.util.*;
 public class Demo
 {
@@ -80,6 +80,7 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
 
 
